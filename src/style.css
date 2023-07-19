@@ -1,0 +1,13 @@
+#fields-container table tr td{
+    width: 15vw;
+    height: 15vw;
+    background-color: burlywood;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 10vw;
+    text-align: center;
+}
+#content-container{
+    display: flex;
+    justify-content: center;
+}
